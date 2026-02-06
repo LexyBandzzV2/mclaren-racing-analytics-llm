@@ -13,24 +13,23 @@ A real-time race performance analysis tool with LLM-powered predictions built fo
 ![Performance Analytics Selection](https://cdn.discordapp.com/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2)
 *Select any race and driver to analyze telemetry data and performance metrics*
 
-### Race Analysis with AI-Powered Debrief
+### AI-Generated Race Debrief
 ![Race Analysis Dashboard](https://cdn.discordapp.com/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61)
 *Comprehensive analysis with top speed, best lap, and average gap metrics*
-
-### AI-Generated Race Debrief
-![AI Race Debrief](https://media.discordapp.net/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61&=&format=webp&quality=lossless&width=687&height=328)
 *Real-time AI-powered analysis providing race overview, driver strengths, and recommendations*
-
-### Strategy Confidence Scoring
-![Strategy Analysis](https://media.discordapp.net/attachments/1459401016544989235/1469212164614127636/Screenshot_2026-02-05_235546.png?ex=6986d5f4&is=69858474&hm=7ce0a7c6e030544871de8181a90dcbfb13ba294e63a1fb7c13a18cdcab9c068e&=&format=webp&quality=lossless&width=687&height=273)
-*Evaluate multiple race strategy options with confidence scores and risk assessment*
 
 ### Cross-Car Learning & Benchmarking
 ![Cross-Car Comparison](https://media.discordapp.net/attachments/1459401016544989235/1469212145743958087/Screenshot_2026-02-05_235641.png?ex=6986d5f0&is=69858470&hm=2e1973a989f1f1f27c51b284bd93d339abeb7f59351f55a3ef495487346bf774&=&format=webp&quality=lossless&width=687&height=287)
 *Direct teammate comparison showing lap gaps, sector times, and performance deltas*
 
+
+### Strategy Confidence Scoring
+![Strategy Analysis](https://media.discordapp.net/attachments/1459401016544989235/1469212178723897364/Screenshot_2026-02-05_235445.png?ex=6986d5f8&is=69858478&hm=0c91c4604736e978e7639dd532b84527c0a73db7f5a940f73a07c153eda6db4d&=&format=webp&quality=lossless&width=1147&height=466)
+*Evaluate multiple race strategy options with confidence scores and risk assessment*
+
+
 ### Driver-Specific Modeling
-![Driver Modeling](https://media.discordapp.net/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2&=&format=webp&quality=lossless&width=687&height=323)
+![Driver Modeling](https://cdn.discordapp.com/attachments/1459401016544989235/1469219156649054401/image.png?ex=6986dc77&is=69858af7&hm=088302325258fbfd95f96ec338814776b36036debd45b9ecf37362dc39e90921)
 *Comprehensive driver profile analysis with performance radar, key strengths, and improvement areas*
 
 ---
