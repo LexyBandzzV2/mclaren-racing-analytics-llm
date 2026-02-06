@@ -7,6 +7,30 @@
 
 A real-time race performance analysis tool built for McLaren F1 engineering teams. This platform transforms raw telemetry data into actionable engineering insights, enabling data-driven decision-making at the pit wall and beyond.
 
+## 📸 Screenshots
+
+### Performance Analytics Dashboard
+![Performance Analytics Selection](public/screenshots/01-performance-analytics.png)
+*Select any race and driver to analyze telemetry data and performance metrics*
+
+### Race Analysis with AI-Powered Debrief
+![Race Analysis Dashboard](public/screenshots/02-race-analysis.png)
+*Comprehensive analysis with top speed, best lap, and average gap metrics*
+
+### AI-Generated Race Debrief
+![AI Race Debrief](public/screenshots/03-ai-debrief.png)
+*Real-time AI-powered analysis providing race overview, driver strengths, and recommendations*
+
+### Strategy Confidence Scoring
+![Strategy Analysis](public/screenshots/04-strategy-scoring.png)
+*Evaluate multiple race strategy options with confidence scores and risk assessment*
+
+### Cross-Car Learning & Benchmarking
+![Cross-Car Comparison](public/screenshots/05-cross-car-learning.png)
+*Direct teammate comparison showing lap gaps, sector times, and performance deltas*
+
+---
+
 ## 🏎️ Core Capabilities
 
 ### Multi-Season Coverage
