@@ -10,7 +10,7 @@ A real-time race performance analysis tool with LLM-powered predictions built fo
 ## 📸 Screenshots
 
 ### Performance Analytics Dashboard
-![Performance Analytics Selection](public/screenshots/01-performance-analytics.png)
+![Performance Analytics Selection]([public/screenshots/01-performance-analytics.png](https://cdn.discordapp.com/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2))
 *Select any race and driver to analyze telemetry data and performance metrics*
 
 ### Race Analysis with AI-Powered Debrief
@@ -18,19 +18,19 @@ A real-time race performance analysis tool with LLM-powered predictions built fo
 *Comprehensive analysis with top speed, best lap, and average gap metrics*
 
 ### AI-Generated Race Debrief
-![AI Race Debrief](public/screenshots/03-ai-debrief.png)
+![AI Race Debrief]([public/screenshots/03-ai-debrief.png](https://media.discordapp.net/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61&=&format=webp&quality=lossless&width=687&height=328))
 *Real-time AI-powered analysis providing race overview, driver strengths, and recommendations*
 
 ### Strategy Confidence Scoring
-![Strategy Analysis](public/screenshots/04-strategy-scoring.png)
+![Strategy Analysis](https://media.discordapp.net/attachments/1459401016544989235/1469212164614127636/Screenshot_2026-02-05_235546.png?ex=6986d5f4&is=69858474&hm=7ce0a7c6e030544871de8181a90dcbfb13ba294e63a1fb7c13a18cdcab9c068e&=&format=webp&quality=lossless&width=687&height=273)
 *Evaluate multiple race strategy options with confidence scores and risk assessment*
 
 ### Cross-Car Learning & Benchmarking
-![Cross-Car Comparison](public/screenshots/05-cross-car-learning.png)
+![Cross-Car Comparison](https://media.discordapp.net/attachments/1459401016544989235/1469212145743958087/Screenshot_2026-02-05_235641.png?ex=6986d5f0&is=69858470&hm=2e1973a989f1f1f27c51b284bd93d339abeb7f59351f55a3ef495487346bf774&=&format=webp&quality=lossless&width=687&height=287)
 *Direct teammate comparison showing lap gaps, sector times, and performance deltas*
 
 ### Driver-Specific Modeling
-![Driver Modeling](public/screenshots/06-driver-modeling.png)
+![Driver Modeling](https://media.discordapp.net/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2&=&format=webp&quality=lossless&width=687&height=323)
 *Comprehensive driver profile analysis with performance radar, key strengths, and improvement areas*
 
 ---
