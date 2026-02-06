@@ -354,7 +354,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 For questions, issues, or suggestions:
 - **GitHub Issues**: [Report a bug](https://github.com/yourusername/mclaren-racing-analytics/issues)
 - **Discussions**: [Ask a question](https://github.com/yourusername/mclaren-racing-analytics/discussions)
-- **Email**: analytics@mclaren.racing
 
 ## 🏆 Acknowledgments
 
