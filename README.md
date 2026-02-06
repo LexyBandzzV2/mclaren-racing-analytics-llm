@@ -10,15 +10,15 @@ A real-time race performance analysis tool with LLM-powered predictions built fo
 ## 📸 Screenshots
 
 ### Performance Analytics Dashboard
-![Performance Analytics Selection]([public/screenshots/01-performance-analytics.png](https://cdn.discordapp.com/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2))
+![Performance Analytics Selection](https://cdn.discordapp.com/attachments/1459401016544989235/1469212273242407027/Screenshot_2026-02-05_235216.png?ex=6986d60e&is=6985848e&hm=955e2eaf0ff5bab9c80285b6355eb789a36e013d3609b5c86a1f6b3d70b8b8b2)
 *Select any race and driver to analyze telemetry data and performance metrics*
 
 ### Race Analysis with AI-Powered Debrief
-![Race Analysis Dashboard](public/screenshots/02-race-analysis.png)
+![Race Analysis Dashboard](https://cdn.discordapp.com/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61)
 *Comprehensive analysis with top speed, best lap, and average gap metrics*
 
 ### AI-Generated Race Debrief
-![AI Race Debrief]([public/screenshots/03-ai-debrief.png](https://media.discordapp.net/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61&=&format=webp&quality=lossless&width=687&height=328))
+![AI Race Debrief](https://media.discordapp.net/attachments/1459401016544989235/1469212206284410962/Screenshot_2026-02-05_235346.png?ex=6986d5fe&is=6985847e&hm=f0c33dc16ff23b13f25c3a2f02be343edd6a567cb9f1b198def05a108e4a2a61&=&format=webp&quality=lossless&width=687&height=328)
 *Real-time AI-powered analysis providing race overview, driver strengths, and recommendations*
 
 ### Strategy Confidence Scoring
