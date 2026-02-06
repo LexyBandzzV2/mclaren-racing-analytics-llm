@@ -29,6 +29,10 @@ A real-time race performance analysis tool built for McLaren F1 engineering team
 ![Cross-Car Comparison](public/screenshots/05-cross-car-learning.png)
 *Direct teammate comparison showing lap gaps, sector times, and performance deltas*
 
+### Driver-Specific Modeling
+![Driver Modeling](public/screenshots/06-driver-modeling.png)
+*Comprehensive driver profile analysis with performance radar, key strengths, and improvement areas*
+
 ---
 
 ## 🏎️ Core Capabilities
