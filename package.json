@@ -1,7 +1,7 @@
 {
-  "name": "mclaren-racing-analytics",
+  "name": "mclaren-racing-analytics-llm",
   "version": "1.0.0",
-  "description": "McLaren Racing Engineering Analytics Platform - Real-time race performance analysis tool for F1 engineering teams",
+  "description": "McLaren Racing Analytics with LLM Predictions - Real-time race performance analysis tool with AI-powered insights for F1 engineering teams",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {

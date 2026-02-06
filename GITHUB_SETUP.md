@@ -1,12 +1,12 @@
-# McLaren Racing Analytics - GitHub Repository Setup Guide
+# McLaren Racing Analytics with LLM Predictions - GitHub Repository Setup Guide
 
-This is your complete McLaren Racing Engineering Analytics Platform GitHub repository, ready for collaboration and deployment!
+This is your complete McLaren Racing Analytics Platform with LLM Predictions GitHub repository, ready for collaboration and deployment!
 
 ## 🚀 What's Included
 
 ### Project Structure
 ```
-mclaren-racing-analytics/
+mclaren-racing-analytics-llm/
 ├── src/                    # Application source code
 │   ├── components/         # React components
 │   ├── services/          # API and business logic
@@ -43,7 +43,7 @@ mclaren-racing-analytics/
 
 ```bash
 # Add your GitHub remote
-git remote add origin https://github.com/YOUR_USERNAME/mclaren-racing-analytics.git
+git remote add origin https://github.com/YOUR_USERNAME/mclaren-racing-analytics-llm.git
 
 # Push to GitHub
 git branch -M main

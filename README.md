@@ -1,11 +1,11 @@
-# McLaren Racing Engineering Analytics Platform
+# McLaren Racing Analytics with LLM Predictions
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.2-61DAFB.svg?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-646CFF.svg?logo=vite)](https://vitejs.dev/)
 
-A real-time race performance analysis tool built for McLaren F1 engineering teams. This platform transforms raw telemetry data into actionable engineering insights, enabling data-driven decision-making at the pit wall and beyond.
+A real-time race performance analysis tool with LLM-powered predictions built for McLaren F1 engineering teams. This platform transforms raw telemetry data into actionable engineering insights with AI-generated recommendations, enabling data-driven decision-making at the pit wall and beyond.
 
 ## 📸 Screenshots
 
